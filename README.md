@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://x.com/Charmind0
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Gritty Wit Rebel Nitty Shit!
 
 <!---
